@@ -1,6 +1,17 @@
 # singbox-socks5
 在VPS上创建socks5
-1.  将脚本 `singbox-socks5-linux-chinese.sh` 中文下载运行。    
+ 
+ 
+ 中文版本
+ 将脚本 `singbox-socks5-linux-chinese.sh` 中文下载运行。    
 ```bash    
 wget -N https://raw.githubusercontent.com/anjwee/singbox-socks5/main/singbox-socks5-linux-chinese.sh && bash singbox-socks5-linux-chinese.sh   
 ```
+
+
+English Version
+Download and run the script `singbox-socks5-linux-en.sh`in English version。    
+```bash    
+wget -N https://raw.githubusercontent.com/anjwee/singbox-socks5/main/singbox-socks5-linux-en.sh && bash singbox-socks5-linux-en.sh   
+```
+
